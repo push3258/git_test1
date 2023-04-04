@@ -23,6 +23,6 @@ p2 = Ai_Students("김정헌", 345, "man")
 
 print(p1.name, p1.age)
 print(p2.name, p2.age, p2.sex)
-
+print('1')
 
 
